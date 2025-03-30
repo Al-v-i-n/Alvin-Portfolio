@@ -72,8 +72,8 @@ const Contact = () => {
                     {/*form */}
                     <div className="flex-1 order-2 xl:order-none">
                         <form onSubmit={handleSubmit} className="flex flex-col gap-5 p-6 bg-[#27272c] rounded-xl">
-                            <h3 className="text-3xl text-accent">Let's Work Together</h3>
-                            <p className="text-white/60 text-sm">Ready to turn your ideas into reality? Let's collaborate on your next project.</p>
+                            <h3 className="text-3xl text-accent">Let&apos;s Work Together</h3>
+                            <p className="text-white/60 text-sm">Ready to turn your ideas into reality? Let&apos;s collaborate on your next project.</p>
                             {/*input */}
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                                 <Input 
