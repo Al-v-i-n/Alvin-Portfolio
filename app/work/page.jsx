@@ -29,6 +29,7 @@ const projects = [
         description:"A web-based platform for efficient task assignment, tracking, and collaboration.",
         stack:[{name:"React.js"},{name:"Java Springboot"},{name:"Mysql"},{name:"Html"},{name:"Javascript"}],
         image: "/assets/work/Dashboard.png",
+        live:"",
         github:"https://github.com/Al-v-i-n/Task_manager"
     },
     {
@@ -38,6 +39,7 @@ const projects = [
         description:"A system that adjusts volume using real-time hand gesture recognition with OpenCV and Python.",
         stack:[{name:"Python"},{name:"OpenCV"},{name:"Mediapipe"}],
         image: "/assets/work/minorimg3.jpeg",
+        live:"",
         github:"https://github.com/Al-v-i-n/Hand-Gesture-Volume-Control"
     }
 ]
