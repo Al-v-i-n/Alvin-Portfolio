@@ -71,7 +71,7 @@ const Home = () => {
           
           {/* Text - second on mobile, first on desktop */}
           <div className="order-last xl:order-first text-center xl:text-left">
-            <span className="text-xl">Engineering A Graduate</span>
+            <span className="text-xl">Engineering Graduate</span>
             <h1 className="h1 mb-4">Hey I'm<br/><span className="text-accent">Alvin Siby</span></h1>
             <p className="max-w-[500px] mx-auto xl:mx-0 mb-6 text-white/80">
               I excel at crafting elegant digital experiences and I am proficient in various programming languages and technologies.
